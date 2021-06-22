@@ -1,0 +1,28 @@
+
+#listview .scroll-bar:vertical{
+	-fx-pref-width: 0;
+}
+
+#listview .list-cell{
+	-fx-text-fill: #292e34;
+    -fx-font-family: Arial;
+    -fx-pref-height: 25px;
+}
+
+
+
+#ta{
+   -fx-font-family: "Quicksand";
+   -fx-font-size: 18;
+   -fx-border-color: grey;
+   -fx-border-width: 2;
+   -fx-border-radius: 1;
+   -fx-border: gone;
+   -fx-background-color: transparent;
+   -fx-text-fill: grey;
+}
+
+#ta{
+	-fx-line-height:500px;
+}
+
